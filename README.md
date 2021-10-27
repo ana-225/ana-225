@@ -34,6 +34,12 @@
 
 
 
-<p><img align =" center "src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ana-225B&theme=radical" alt = "ana-225 "/> </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-225B&theme=radical)
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="animated" width="120px" />
+</p>
+
 
 
