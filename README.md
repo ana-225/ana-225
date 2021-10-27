@@ -1,7 +1,6 @@
 <h1 align = "center"> Hola 👋, soy Ana Vidal </h1>
 <h3 align = "center"> Me apasiona el desarrollo en Backend. </h3>
 
-<p align = "left"> <a href = "https://github.com/ryo-ma/github-profile-trophy"> <img src = "https://github-profile-trophy.vercel.app/?username=ana-225" alt = " ana-225 "/> </a> </p>
 
 - 🔭 Trabajo en Proyecto de Laboratoria [Fleet Management] (https://github.com/ana-225/REG003-fleet-management)
 
@@ -20,11 +19,11 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -45,4 +44,4 @@
 
 <p> <img align =" left "src =" https: // github-readme-stats .vercel.app / api / top-langs? username = ana-225 & show_icons = true & locale = en & layout = compact "alt =" ana-225 "/> </p>
 
-<p> & nbsp; <img align =" center "src = "https://github-readme-stats.vercel.app/api?username=ana-225&show_icons=true&locale=en" alt = "ana-225 "/> </p>
+<p><img align =" center "src = "https://github-readme-stats.vercel.app/api?username=ana-225&show_icons=true&locale=en" alt = "ana-225 "/> </p>
