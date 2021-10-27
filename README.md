@@ -33,13 +33,13 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ana-225B&theme=radical&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-225B&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NellyGonzalezB&theme=radical)
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="animated" width="120px" />
-</p>
+
+
 
 
 
